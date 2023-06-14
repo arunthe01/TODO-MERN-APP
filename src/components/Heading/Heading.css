@@ -1,0 +1,12 @@
+.todo-head{
+    color:rgb(0, 0, 0);
+    font-weight: 900;
+    font-size: 50px;
+    text-shadow: -2px -2px 2px rgb(245, 245, 245);
+
+}
+
+body{
+    color: white;
+    background-color: black;
+}
